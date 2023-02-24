@@ -13,9 +13,18 @@
 <p align="center"> Data Science projects. Classic ML </p align="center">
 
 
-| **Проект** | **Тип исследования** | **Статус** |
+| **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Predicting temperature of steel](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20temperature%20of%20steel/final_project_final_version.ipynb)|In order to optimize production costs, the steel company decided to reduce power consumption in the steel processing stage.|Finished|
+
+<p align="center"> Data Science projects. EDAs </p align="center">
+
+
+| **Project** | **Description** | **Status** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [01. Real estate](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Real%20estate/real%20estate.ipynb)|Determining parameters characterizing the market value of real estate.|Finished|
+
+
 <!--
 **dechernov/dechernov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

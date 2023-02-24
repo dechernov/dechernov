@@ -15,7 +15,7 @@
 
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Predicting temperature of steel](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20temperature%20of%20steel/final_project_final_version.ipynb)|To optimize production costs, a steel company decided to reduce the power used to process steel.|Finished|
+| [01. Predicting temperature of steel](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20temperature%20of%20steel/final_project_final_version.ipynb)|In order to optimize production costs, a steel company decided to reduce power consumption in the steel processing stage.|Finished|
 
 <p align="center"> Data Science projects. EDAs </p align="center">
 

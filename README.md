@@ -22,7 +22,7 @@
 
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Analyzing job market](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20temperature%20of%20steel/final_project_final_version.ipynb)|In order to optimize production costs, a steel company decided to reduce power consumption in the steel processing stage.|Finished|
+| [01. Analyzing job market](https://github.com/dechernov/DS_projects/blob/main/Pet%20projects/analyzing%20data%20science%20job%20market_new.ipynb)|Data plays a huge role in decision-making and helps businesses operate more effectively nowadays. A lot of people are involved in gathering, storing, processing, and analyzing data. This little exploratory data analysis will clarify what kind of data and analytics jobs are currently in demand within the Moscow region. The research is only for non-commercial use and is based on the open data from HeadHunter (an online recruitment platform in Russia and the Commonwealth of Independent States region)|Finished|
 
 <p align="center"> Data Science projects. EDAs </p align="center">
 

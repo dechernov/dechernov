@@ -1,11 +1,11 @@
-### Hi there, I'm Denis Chernov 👋
+# Hi there, I'm Denis Chernov 👋
 
 [![Linkedin: dechernov](https://img.shields.io/badge/-Denis%20Chernov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dechernov/)](https://www.linkedin.com/in/dechernov/)
 [![GitHub followers](https://img.shields.io/github/followers/dechernov?style=social)](https://github.com/dechernov)
 
 
 
-#### About me  
+## About me  
 > - 🔭 An experienced data analyst with a demonstrated history of working in small consulting boutiques (railway sector)
 > - 🌱 Have a lot of passion for classic ML and process automation
 > - 📡 Yandex.Practicum graduate (Data Science), Master of Arts (marketing)

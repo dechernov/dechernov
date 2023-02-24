@@ -22,7 +22,7 @@
 
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Real estate](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Real%20estate/real%20estate.ipynb)|Determining parameters characterizing the market value of real estate.|Finished|
+| [01. Analyzing real estate data in Saint-Petersburg](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Real%20estate/real%20estate.ipynb)|Yandex Real Estate data - an archive of announcements about apartments for sale in Saint-Petersburg and nearby settlements. Determining parameters characterizing the market value of real estate.|Finished|
 
 
 <!--

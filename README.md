@@ -16,6 +16,10 @@
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Predicting temperature of steel](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20temperature%20of%20steel/final_project_final_version.ipynb)|In order to optimize production costs, a steel company decided to reduce power consumption in the steel processing stage.|Finished|
+| [02. Forecasting taxi demand](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Forecasting%20taxi%20demand/taxies_forecasting.ipynb)|Online taxi service plans to predict the number of taxi orders for the next hour to schedule more drivers during peak hours.|Finished|
+| [03. Choosing location for an oil well](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Choosing%20location%20for%20an%20oil%20well/oil.ipynb)|An oil-producing company is planning to develop a new oil well. It is important to determine the location of the new field.|Finished|
+| [04. Predicting gold recovery rate from gold-bearing ore](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20gold%20concentration/gold%20prediction.ipynb)|The company "Cifra" develops various solutions for the efficient operation of industrial enterprises.|Finished|
+| [05. Predicting car price](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20car%20price/car%20price.ipynb)|A used car sales company is developing an application to quickly determine the market value of a car in order to attract new customers.|Finished|
 
 <p align="center"> Pet projects. </p align="center">
 

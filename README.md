@@ -1,7 +1,7 @@
 # Hi there, I'm Denis Chernov 👋
 
 ## About me  
-> - 🔭 An experienced data analyst with a demonstrated history of working in small consulting boutiques (railway sector)
+> - 🔭 An experienced data analyst (railway sector), DS beginner
 > - 🌱 Passionate about classic ML and process automation
 > - 📡 Yandex.Practicum graduate (Data Science), Master of Arts (marketing)
 > - 📫 How to reach me <a href="https://t.me/dechernov" target="balnk"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" height="25" width="35" />@dechernov</a>, chernov.den@hotmail.com, <a href="https://www.linkedin.com/in/dechernov/" target="balnk"><img align="center" src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Icon-Logo.wine.png" height="25" width="35" />dechernov</a>

@@ -31,6 +31,7 @@
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Classifying toxic comments](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Classifying%20toxic%20comments/toxic%20comments.ipynb)|The online store "Wikishop" launches a new service. From now on, users can edit and add to product descriptions in the same way as in wiki communities. This means that customers can offer their own changes and comment on the changes made by others. The store needs a tool to find and moderate toxic comments.|Finished|
+| [02. Predicting customer age](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20customer%20age/predicting%20customer%20age.ipynb)|A supermarket is implementing a computer vision system to process customer photos. Photofixation at checkout will help determine customer age to analyze purchases and offer goods that may be of interest to customers in that age group, as well as to monitor cashiers when selling alcoholic beverages.|Finished|
 
 <p align="center"> Pet projects. </p align="center">
 

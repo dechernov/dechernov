@@ -20,6 +20,7 @@
 | [03. Choosing location for an oil well](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Choosing%20location%20for%20an%20oil%20well/oil.ipynb)|An oil-producing company is planning to develop a new oil well. It is important to determine the location of the new field.|Finished|
 | [04. Predicting gold recovery rate from gold-bearing ore](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20gold%20concentration/gold%20prediction.ipynb)|The company "Cifra" develops various solutions for the efficient operation of industrial enterprises.|Finished|
 | [05. Predicting car price](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20car%20price/car%20price.ipynb)|A used car sales company is developing an application to quickly determine the market value of a car in order to attract new customers.|Finished|
+| [06. Bank churn prediction](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Bank%20churn%20prediction/Bank%20churn%20prediction.ipynb)|The marketing department of "Beta-Bank" noticed that customers were leaving the bank. It was considered that it is cheaper to keep customers than to attract new ones.|Finished|
 
 <p align="center"> Pet projects. </p align="center">
 

@@ -39,7 +39,7 @@
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Analyzing job market](https://github.com/dechernov/DS_projects/blob/main/Pet%20projects/analyzing%20data%20science%20job%20market_new.ipynb)|Data plays a huge role in decision making and helps businesses operate more effectively today. Many people are involved in collecting, storing, processing and analyzing data. Using HH API, this small EDA will clarify what kind of data and analytics jobs are currently in demand in the Moscow region. The research is based on open data from HeadHunter (an online recruitment platform in Russia and the Commonwealth of Independent States region).|Finished|
-| [02. Getting railway stations from OpenStreetmap](https://github.com/dechernov/DS_projects/blob/main/Pet%20projects/stations.ipynb)|Using ox library, we'll get unique railway stations and their attributes, including locations, from the OpenStreetmap for Moscow region.|In progress|
+| [02. Parsing railway stations from OpenStreetmap](https://github.com/dechernov/DS_projects/blob/main/Pet%20projects/stations.ipynb)|Using ox library, we'll get unique railway stations and their attributes, including locations, from the OpenStreetmap for Moscow region.|In progress|
 
 <p align="center"> Data Science projects. EDAs </p align="center">
 

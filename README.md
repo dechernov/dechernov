@@ -47,7 +47,10 @@
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
 | [01. Definition of a successful game platform and game product](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Defining%20a%20successful%20gaming%20platform%20and%20product/games.ipynb)|An online store that sells computer games around the world, is planning an advertising campaign based on a potentially popular product.|Finished|
-| [02. Analyzing real estate data in Saint-Petersburg](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Real%20estate/real%20estate.ipynb)|Yandex Real Estate data - an archive of announcements about apartments for sale in Saint-Petersburg and nearby settlements. Determining parameters characterizing the market value of real estate.|Finished|
+| [02. Determining a prospective tariff for a telecommunications company](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Telecom%20company/Telecom%20company.ipynb)|A telecommunications company offers its customers two tariff plans: "Smart" and "Ultra. The commercial department needs to understand which plan brings in more money in order to adjust the advertising budget. It is necessary to analyze customer behavior and conclude which plan is preferable for the telecom company.|Finished|
+| [03. Analyzing real estate data in Saint-Petersburg](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Real%20estate/real%20estate.ipynb)|Yandex Real Estate data - an archive of announcements about apartments for sale in Saint-Petersburg and nearby settlements. Determining parameters characterizing the market value of real estate.|Finished|
+| [04. Borrowers reliability study](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Borrowers%20reliability%20study/Borrowers%20reliability%20study.ipynb)| It is necessary to find out whether the marital status and the number of children in the client's family affect the fact of timely repayment of the loan.|Finished|
+| [05. Yandex.Music](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Yandex.Music/Yandex.Music.ipynb)| Using the Yandex.Music dataset, we will compare the behavior of users of two capitals.|Finished|
 
 
 <!--

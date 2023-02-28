@@ -20,7 +20,17 @@
 | [03. Choosing location for an oil well](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Choosing%20location%20for%20an%20oil%20well/oil.ipynb)|An oil-producing company is planning to develop a new oil well. It is important to determine the location of the new field.|Finished|
 | [04. Predicting gold recovery rate from gold-bearing ore](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20gold%20concentration/gold%20prediction.ipynb)|The company "Cifra" develops various solutions for the efficient operation of industrial enterprises.|Finished|
 | [05. Predicting car price](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Predicting%20car%20price/car%20price.ipynb)|A used car sales company is developing an application to quickly determine the market value of a car in order to attract new customers.|Finished|
-| [06. Bank churn prediction](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Bank%20churn%20prediction/Bank%20churn%20prediction.ipynb)|The marketing department of "Beta-Bank" noticed that customers were leaving the bank. It was considered that it is cheaper to keep customers than to attract new ones.|Finished|
+| [06. Protecting customers' personal information](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Protecting%20customers'%20personal%20information/Protecting%20customers'%20personal%20information.ipynb)|An insurance company plans to use data encryption to keep personal information secure.|Finished|
+| [07. Bank churn prediction](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Bank%20churn%20prediction/Bank%20churn%20prediction.ipynb)|The marketing department of "Beta-Bank" noticed that customers were leaving the bank. It was considered that it is cheaper to keep customers than to attract new ones.|Finished|
+| [08. Tariff recommendation for a telecommunications company](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Tariff%20recommendation%20for%20a%20telecommunications%20company/Tariff%20recommendation%20for%20a%20telecommunications%20company.ipynb)|A mobile operator plans to analyze customer behavior and offer users of archived tariffs a range of new tariffs: Smart or Ultra.|Finished|
+
+
+<p align="center"> Data Science projects. Deep learning and NLP. </p align="center">
+
+
+| **Project** | **Description** | **Status** |
+| -------------------- | :--------------------- |:---------------------------:|
+| [01. Classifying toxic comments](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Classifying%20toxic%20comments/toxic%20comments.ipynb)|The online store "Wikishop" launches a new service. From now on, users can edit and add to product descriptions in the same way as in wiki communities. This means that customers can offer their own changes and comment on the changes made by others. The store needs a tool to find and moderate toxic comments.|Finished|
 
 <p align="center"> Pet projects. </p align="center">
 

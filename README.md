@@ -46,7 +46,8 @@
 
 | **Project** | **Description** | **Status** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [01. Analyzing real estate data in Saint-Petersburg](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Real%20estate/real%20estate.ipynb)|Yandex Real Estate data - an archive of announcements about apartments for sale in Saint-Petersburg and nearby settlements. Determining parameters characterizing the market value of real estate.|Finished|
+| [01. Definition of a successful game platform and game product](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Defining%20a%20successful%20gaming%20platform%20and%20product/games.ipynb)|An online store that sells computer games around the world, is planning an advertising campaign based on a potentially popular product.|Finished|
+| [02. Analyzing real estate data in Saint-Petersburg](https://github.com/dechernov/DS_projects/blob/main/Yandex.Practicum%20projects/Real%20estate/real%20estate.ipynb)|Yandex Real Estate data - an archive of announcements about apartments for sale in Saint-Petersburg and nearby settlements. Determining parameters characterizing the market value of real estate.|Finished|
 
 
 <!--

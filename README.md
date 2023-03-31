@@ -3,7 +3,7 @@
 ## About me  
 > - 🔭 An experienced data analyst (railway sector), DS beginner
 > - 🌱 Passionate about classic ML and process automation
-> - 📡 Yandex.Practicum graduate (Data Science), Master of Arts (Marketing)
+> - 📡 Yandex.Practicum graduate (Data Science), Master of Science (Marketing)
 > - 📫 How to reach me <a href="https://t.me/dechernov" target="balnk"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" height="25" width="35" />@dechernov</a>, chernov.den@hotmail.com, <a href="https://www.linkedin.com/in/dechernov/" target="balnk"><img align="center" src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Icon-Logo.wine.png" height="25" width="35" />dechernov</a>
 
 <h3 align="left">Languages and Tools:</h3>
